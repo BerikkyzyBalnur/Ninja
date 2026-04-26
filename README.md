@@ -25,7 +25,7 @@ The project tests two main analytical theories:
 ##  Bonus Tasks Implemented
 * **Interactive Dashboard**: A professional-grade dashboard built with **Streamlit** and **Plotly**, featuring real-time data filtering and dynamic clustering exploration.
 * **API Scraping**: Integration with external job market data via Adzuna API.
-  **Advanced NLP**: Automated text analysis and word clouds
+* **Advanced NLP**: Automated text analysis and word clouds
 * **Clustering Model**: Automated segmentation of the dataset using Scikit-learn.
   
 ##  How to Run
