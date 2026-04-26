@@ -16,7 +16,6 @@ Raw HTML data is processed into a structured `Pandas DataFrame`. This phase invo
 Analysis of rating distributions, page counts, and popular genres using:
 * **Seaborn & Matplotlib**: For classic statistical plotting.
 * **Plotly**: For interactive visualizations.
-* **WordCloud**: To visualize frequent keywords in book titles and descriptions.
 
 ### 4. Hypothesis Testing
 The project tests two main analytical theories:
@@ -26,6 +25,7 @@ The project tests two main analytical theories:
 ##  Bonus Tasks Implemented
 * **Interactive Dashboard**: A professional-grade dashboard built with **Streamlit** and **Plotly**, featuring real-time data filtering and dynamic clustering exploration.
 * **API Scraping**: Integration with external job market data via Adzuna API.
+  **Advanced NLP**: Automated text analysis and word clouds
 * **Clustering Model**: Automated segmentation of the dataset using Scikit-learn.
   
 ##  How to Run
