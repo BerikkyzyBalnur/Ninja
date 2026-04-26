@@ -2,7 +2,7 @@
 
 This project represents a full data science pipeline: from automated web scraping of the Goodreads website to in-depth statistical analysis and hypothesis testing.
 
-## 📋 Project Structure
+##  Project Structure
 
 The workflow is divided into four key phases:
 
@@ -23,7 +23,7 @@ The project tests two main analytical theories:
 * **"The Descriptor Premium"**: Investigating whether the length of a book title correlates with its average rating.
 * **"Survivor Bias & Brand Loyalty"**: Analyzing the correlation between author productivity and audience loyalty.
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Install Dependencies:**
    Ensure you have Python installed, then run the following command in your terminal:
